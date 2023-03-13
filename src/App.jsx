@@ -107,7 +107,7 @@ function App() {
                   Total: {data.length}
                 </Typography>
                 <Button onClick={refreshdata} variant="contained" component="label" startIcon={<RefreshIcon />}>
-                  Remove
+                  Refresh
                 </Button>
               </Grid>
               {/* <Grid item xs={12}>
